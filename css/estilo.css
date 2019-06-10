@@ -1,0 +1,21 @@
+/* ESTILO.CSS */
+
+*{ margin: 0; padding: 0; }
+body{ font-family: helvetica, arial; font-size: 16px; color: #333; }
+header{ background-color: #000; }
+footer{ background-color: #222; min-height: 120px; color: #FFF; padding: 20px; }
+nav {min-height: 90px; margin-bottom: 0 !important; }
+
+/* id  */
+#logo { margin: 20px 0; }
+#conteudo { padding: 100px 0;}
+#menu_lista { padding: 10px 5px; } 
+
+/* Class */
+.link_menu { margin-top: 20px; }
+.link_menu a { color: #00FF7F !important; padding: 20px; }
+.link_menu a:hover{ background-color: #00FF7F !important; color: #000 !important; }
+.link_menu2 { margin-top: 20px; }
+.link_menu2 a { color: #00BFFF !important; padding: 20px; }
+.link_menu2 a:hover{ background-color: #00FF7F !important; color: red !important; }
+/*.container{ margin: 0 auto; width: 960px; }*/
